@@ -12,7 +12,6 @@ A RESTful API built with **Spring Boot** for reviewing movies. Users can fetch m
 ## Tech Stack 🛠
 - **Backend**: Spring Boot, Java
 - **Database**: MongoDB
-- **API Documentation**: Swagger (Optional)
 - **Testing**: Postman
 
 ## Setup Instructions 🚀
